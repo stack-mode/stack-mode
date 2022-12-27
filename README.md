@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stack-mode (Chris Foti). I have worked in digital marketing since 2012 and have a passion for developing, maintaining, and optimizing technology. 
-- 👀 I’m interested in website development, website security, web hosting, as well as HTML, CSS, JS, PHP, and MySQL. 
+- 👀 I’m interested in website development, website security, and web hosting. I am currently working to perfect my skills with HTML, CSS, JS, PHP, and MySQL. 
 - 🌱 I’m currently learning JavaScript, PHP, and MySQL. 
 - 💞️ I’m looking to collaborate on development projects.
 - 📫 You can get in touch by emailing me at cfoti@stackmode.com
